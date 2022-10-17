@@ -3,8 +3,52 @@
 		{
 			"loop": false,
 			"offsets": [
-				57,
-				65
+				7,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
 			],
 			"anim": "hey",
 			"fps": 24,
@@ -102,131 +146,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				625,
-				650
+				-67,
+				-42
 			],
 			"anim": "idle",
-			"fps": 24,
-			"name": "boytunkle idle",
+			"fps": 20,
+			"name": "Idle_Pose",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				630,
-				654
+				2,
+				80
 			],
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "boytunkle left0",
+			"fps": 16,
+			"name": "Left_Pose",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				621,
-				657
+				82,
+				124
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "boytunkle up0",
+			"name": "Up_Pose",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				622,
-				663
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "boytunkle right0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				621,
-				654
+				-53,
+				-26
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "boytunkle down0",
+			"name": "Down_Pose",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				630,
-				654
+				-81,
+				6
 			],
-			"anim": "singLEFTmiss",
+			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "boytunkle leftmiss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				621,
-				654
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "boytunkle downmiss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				621,
-				657
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "boytunkle upmiss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				622,
-				663
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "boytunkle rightmiss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				620,
-				660
-			],
-			"anim": "shoot",
-			"fps": 24,
-			"name": "boytunkle shootinglol",
+			"name": "Right_Pose",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/boytunkle",
+	"image": "characters/oswald_Pibby",
 	"position": [
-		-180,
-		370
+		-40,
+		190
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "oswald",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		255,
+		255,
+		255
 	],
 	"camera_position": [
-		180,
-		-190
+		-80,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 0.5
+	"scale": 1.5
 }
