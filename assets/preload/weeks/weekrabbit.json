@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Rabbit's Glitch",
+			"oswald",
+			[
+				246,
+				233,
+				235
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "none",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "uh oh someone got the rabbit",
+	"weekName": "rabbit week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
